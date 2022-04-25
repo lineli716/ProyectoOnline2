@@ -1,8 +1,8 @@
 <?php
     include "Autoload.php";
-    if(isset($_GET['Controller']) && isset($_GET['Method']))
+    if(isset($_GET['controller']) && isset($_GET['Method']))
     {
-        $controller=$_GET['Controller'];
+        $controller=$_GET['controller'];
         $method=$_GET['Method'];
     }
     else
