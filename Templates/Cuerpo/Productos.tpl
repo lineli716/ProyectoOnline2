@@ -1,6 +1,6 @@
 {include file="templates/Cabeceras/Header.tpl"}
 
-
+{include file="templates/Cabeceras/Cab.tpl"}
 
 <div class="container">
  <div class="row">
@@ -9,7 +9,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/PfrutasCrema.jpg">
+            <img src="Recursos/PfrutasCrema.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de frutas con crema</span>
           </div>
           <div class="card-content">
@@ -23,7 +23,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/TartaletaF.jpg">
+            <img src="Recursos/TartaletaF.jpg" height="30%" width="40%>
             <span class="card-title">Tartaleta de frutas</span>
           </div>
           <div class="card-content">

@@ -1,9 +1,9 @@
 <?php
     include "Autoload.php";
-    if(isset($_GET['controller']) && isset($_GET['Method']))
+    if(isset($_GET['controller']) && isset($_GET['method']))
     {
         $controller=$_GET['controller'];
-        $method=$_GET['Method'];
+        $method=$_GET['method'];
     }
     else
     {

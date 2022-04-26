@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.0.4, created on 2022-04-25 08:25:41
+/* Smarty version 4.0.4, created on 2022-04-26 15:37:35
   from 'C:\xampp\htdocs\ProyectoOnline2\templates\Cabeceras\Cab.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.0.4',
-  'unifunc' => 'content_62663ee58f7ba7_26499645',
+  'unifunc' => 'content_6267f59f640236_62579412',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '0aef9e82a809883b3326668ac10802dbd3ab2536' => 
     array (
       0 => 'C:\\xampp\\htdocs\\ProyectoOnline2\\templates\\Cabeceras\\Cab.tpl',
-      1 => 1650867906,
+      1 => 1650980118,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_62663ee58f7ba7_26499645 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6267f59f640236_62579412 (Smarty_Internal_Template $_smarty_tpl) {
 ?>  <nav class="nav-extended">
   
   <div class="red">
@@ -40,7 +40,7 @@ function content_62663ee58f7ba7_26499645 (Smarty_Internal_Template $_smarty_tpl)
         <li class="tab"><a class="active" href="?controller=Direccion&method=Inicio">Inicio</a></li>
         <li class="tab"><a class="active" href="?controller=Direccion&method=Productos">Productos</a></li>
         <li class="tab"><a class="active" href="?controller=Direccion&method=Contacto">Contacto</a></li>
-        <li class="tab"><a class="active" href="#test4">Sobre Nosotros</a></li>
+        <li class="tab"><a class="active" href="?controller=Direccion&method=Nosotros">Sobre Nosotros</a></li>
       </ul>
     </div>
   </nav>

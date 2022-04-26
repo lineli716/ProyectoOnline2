@@ -17,7 +17,7 @@
         <li class="tab"><a class="active" href="?controller=Direccion&method=Inicio">Inicio</a></li>
         <li class="tab"><a class="active" href="?controller=Direccion&method=Productos">Productos</a></li>
         <li class="tab"><a class="active" href="?controller=Direccion&method=Contacto">Contacto</a></li>
-        <li class="tab"><a class="active" href="#test4">Sobre Nosotros</a></li>
+        <li class="tab"><a class="active" href="?controller=Direccion&method=Nosotros">Sobre Nosotros</a></li>
       </ul>
     </div>
   </nav>
