@@ -179,7 +179,7 @@
         <div class="card">
           <div class="card-image">
             <img src="Recursos/Celvanegra.jpg">
-            <span class="card-title">Selva negra</span>
+            <span class="card-title">Pastel selva negra</span>
           </div>
           <div class="card-content">
             <p>Bizcocho esponjoso de chocolate humecido con miel de guinda, relleno y cubierto de crema láctea batida con jalea natural de berries y decorado con guindas bañadas en chocolate. </p>
