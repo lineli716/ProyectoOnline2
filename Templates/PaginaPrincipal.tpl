@@ -2,7 +2,7 @@
 
 {include file="templates/Cabeceras/Cab.tpl"}
 
-{include file="templates/Cuerpo/Productos.tpl"}
+
 
 
 <footer class="page-footer card  red "><div class="card  red">
