@@ -23,7 +23,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/TartaletaF.jpg" height="30%" width="40%>
+            <img src="Recursos/TartaletaF.jpg" height="30%" width="40%">
             <span class="card-title">Tartaleta de frutas</span>
           </div>
           <div class="card-content">
@@ -37,7 +37,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pchocolat.jpg">
+            <img src="Recursos/Pchocolat.jpg" height="30%" width="40%">
             <span class="card-title",>Pastel de chocolate</span>
           </div>
           <div class="card-content">
@@ -55,8 +55,8 @@
  <div class="row">
       <div class="col s6 m4">
         <div class="card">
-          <div class="card-image">
-            <img src="Recursos/Ppiñaymang.jpg">
+          <div class="card-image"> 
+            <img src="Recursos/Ppiñaymang.jpg" height="30%" width="40%">
             <span class="card-title">Pie de piña y mango</span>
           </div>
           <div class="card-content">
@@ -70,7 +70,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pquesoymer.jpg">
+            <img src="Recursos/Pquesoymer.jpg" height="30%" width="40%">
             <span class="card-title">Pie de queso y mermelada</span>
           </div>
           <div class="card-content">
@@ -84,7 +84,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pfym.jpg">
+            <img src="Recursos/Pfym.jpg" height="30%" width="40%">
             <span class="card-title">Pastel fresa, mango y chocolate blanco</span>
           </div>
           <div class="card-content">
@@ -103,7 +103,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Palmend.jpg">
+            <img src="Recursos/Palmend.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de almendras</span>
           </div>
           <div class="card-content">
@@ -117,7 +117,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pchocof.jpg">
+            <img src="Recursos/Pchocof.jpg" height="30%" width="40%">
             <span class="card-title">Pastel chocoflan</span>
           </div>
           <div class="card-content">
@@ -131,7 +131,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pzanah.jpg">
+            <img src="Recursos/Pzanah.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de zanahoria</span>
           </div>
           <div class="card-content">
@@ -150,7 +150,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pfrym.jpg">
+            <img src="Recursos/Pfrym.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de fresa y melocoton</span>
           </div>
           <div class="card-content">
@@ -164,7 +164,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pchcf.jpg">
+            <img src="Recursos/Pchcf.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de chocolate con frutas</span>
           </div>
           <div class="card-content">
@@ -178,7 +178,7 @@
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Celvanegra.jpg">
+            <img src="Recursos/Celvanegra.jpg" height="30%" width="40%">
             <span class="card-title">Pastel selva negra</span>
           </div>
           <div class="card-content">
