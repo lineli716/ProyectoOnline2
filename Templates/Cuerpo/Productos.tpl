@@ -13,7 +13,7 @@
             <span class="card-title">Pastel de frutas con crema</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho de vainilla elaborado con ingredientes naturales, relleno y decorado con crema batida, y una variedad de frutas tropicales.</p>
+            <p>Bizcocho de vainilla elaborado con ingredientes naturales, relleno y decorado con frutas tropicales.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -41,7 +41,7 @@
             <span class="card-title",>Pastel de chocolate</span>
           </div>
           <div class="card-content">
-            <p>Suave y esponjoso pan de chocolate, relleno de crema de chocolate y ganache, decorado con chispas de chocolate.</p>
+            <p>Suave y esponjoso pan de chocolate, relleno de crema de chocolate y ganache, con chispas de chocolate.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -107,7 +107,7 @@
             <span class="card-title">Pastel de almendras</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho esponjoso de vainilla, humedecido con miel de almendras, relleno y cubierto con manjar de leche, decorado con espumillas bañadas en chocolate blanco y espolvoreado con cocoa y almendra molida.</p>
+            <p>Bizcocho de vainilla, humedecido con miel de almendras, relleno con manjar de leche, decorado con espumillas, espolvoreado con cocoa.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -168,7 +168,7 @@
             <span class="card-title">Pastel de chocolate con frutas</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho de chocolate oscuro humedecido, con miel de guindas, relleno con crema batida, kiwi, melocotón y trocitos de chocolate oscuro, decorado con fruta fresca y crema batida.</p>
+            <p>Bizcocho de chocolate oscuro, con miel de guindas, relleno con crema batida, kiwi, melocotón y chocolate oscuro, decorado con fruta fresca y crema batida.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -182,7 +182,7 @@
             <span class="card-title">Pastel selva negra</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho esponjoso de chocolate humecido con miel de guinda, relleno y cubierto de crema láctea batida con jalea natural de berries y decorado con guindas bañadas en chocolate. </p>
+            <p>Bizcocho de chocolate humecido con miel de guinda, relleno y cubierto de crema láctea batida con jalea natural de berries y decorado con guindas con chocolate. </p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>

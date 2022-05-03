@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.0.4, created on 2022-04-26 15:39:38
+/* Smarty version 4.0.4, created on 2022-05-03 14:55:42
   from 'C:\xampp\htdocs\ProyectoOnline2\templates\Cuerpo\Productos.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.0.4',
-  'unifunc' => 'content_6267f61a7d95d0_10947067',
+  'unifunc' => 'content_6271264e804797_38765234',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42de4c7ca57f7b5dcc2ca245126425ff32c311df' => 
     array (
       0 => 'C:\\xampp\\htdocs\\ProyectoOnline2\\templates\\Cuerpo\\Productos.tpl',
-      1 => 1650980376,
+      1 => 1651582540,
       2 => 'file',
     ),
   ),
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:templates/Cabeceras/Footer.tpl' => 1,
   ),
 ),false)) {
-function content_6267f61a7d95d0_10947067 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6271264e804797_38765234 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 
@@ -41,7 +41,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
             <span class="card-title">Pastel de frutas con crema</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho de vainilla elaborado con ingredientes naturales, relleno y decorado con crema batida, y una variedad de frutas tropicales.</p>
+            <p>Bizcocho de vainilla elaborado con ingredientes naturales, relleno y decorado con frutas tropicales.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -51,8 +51,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/TartaletaF.jpg" height="30%" width="40<?php echo '%>'; ?>
-
+            <img src="Recursos/TartaletaF.jpg" height="30%" width="40%">
             <span class="card-title">Tartaleta de frutas</span>
           </div>
           <div class="card-content">
@@ -66,11 +65,11 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pchocolat.jpg">
+            <img src="Recursos/Pchocolat.jpg" height="30%" width="40%">
             <span class="card-title",>Pastel de chocolate</span>
           </div>
           <div class="card-content">
-            <p>Suave y esponjoso pan de chocolate, relleno de crema de chocolate y ganache, decorado con chispas de chocolate.</p>
+            <p>Suave y esponjoso pan de chocolate, relleno de crema de chocolate y ganache, con chispas de chocolate.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -84,8 +83,8 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
  <div class="row">
       <div class="col s6 m4">
         <div class="card">
-          <div class="card-image">
-            <img src="Recursos/Ppiñaymang.jpg">
+          <div class="card-image"> 
+            <img src="Recursos/Ppiñaymang.jpg" height="30%" width="40%">
             <span class="card-title">Pie de piña y mango</span>
           </div>
           <div class="card-content">
@@ -99,7 +98,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pquesoymer.jpg">
+            <img src="Recursos/Pquesoymer.jpg" height="30%" width="40%">
             <span class="card-title">Pie de queso y mermelada</span>
           </div>
           <div class="card-content">
@@ -113,7 +112,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pfym.jpg">
+            <img src="Recursos/Pfym.jpg" height="30%" width="40%">
             <span class="card-title">Pastel fresa, mango y chocolate blanco</span>
           </div>
           <div class="card-content">
@@ -132,11 +131,11 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Palmend.jpg">
+            <img src="Recursos/Palmend.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de almendras</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho esponjoso de vainilla, humedecido con miel de almendras, relleno y cubierto con manjar de leche, decorado con espumillas bañadas en chocolate blanco y espolvoreado con cocoa y almendra molida.</p>
+            <p>Bizcocho de vainilla, humedecido con miel de almendras, relleno con manjar de leche, decorado con espumillas, espolvoreado con cocoa.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -146,7 +145,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pchocof.jpg">
+            <img src="Recursos/Pchocof.jpg" height="30%" width="40%">
             <span class="card-title">Pastel chocoflan</span>
           </div>
           <div class="card-content">
@@ -160,7 +159,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pzanah.jpg">
+            <img src="Recursos/Pzanah.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de zanahoria</span>
           </div>
           <div class="card-content">
@@ -179,7 +178,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pfrym.jpg">
+            <img src="Recursos/Pfrym.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de fresa y melocoton</span>
           </div>
           <div class="card-content">
@@ -193,11 +192,11 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Pchcf.jpg">
+            <img src="Recursos/Pchcf.jpg" height="30%" width="40%">
             <span class="card-title">Pastel de chocolate con frutas</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho de chocolate oscuro humedecido, con miel de guindas, relleno con crema batida, kiwi, melocotón y trocitos de chocolate oscuro, decorado con fruta fresca y crema batida.</p>
+            <p>Bizcocho de chocolate oscuro, con miel de guindas, relleno con crema batida, kiwi, melocotón y chocolate oscuro, decorado con fruta fresca y crema batida.</p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
@@ -207,11 +206,11 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty
       <div class="col s6 m4">
         <div class="card">
           <div class="card-image">
-            <img src="Recursos/Celvanegra.jpg">
+            <img src="Recursos/Celvanegra.jpg" height="30%" width="40%">
             <span class="card-title">Pastel selva negra</span>
           </div>
           <div class="card-content">
-            <p>Bizcocho esponjoso de chocolate humecido con miel de guinda, relleno y cubierto de crema láctea batida con jalea natural de berries y decorado con guindas bañadas en chocolate. </p>
+            <p>Bizcocho de chocolate humecido con miel de guinda, relleno y cubierto de crema láctea batida con jalea natural de berries y decorado con guindas con chocolate. </p>
           </div>
           <div class="card-action">
             <a href="#">This is a link</a>
