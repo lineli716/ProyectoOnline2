@@ -1,18 +1,30 @@
 <?php
+<<<<<<< Updated upstream
 /* Smarty version 4.0.4, created on 2022-05-03 14:55:42
+=======
+/* Smarty version 4.0.4, created on 2022-05-03 15:17:41
+>>>>>>> Stashed changes
   from 'C:\xampp\htdocs\ProyectoOnline2\templates\Cuerpo\Productos.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.0.4',
+<<<<<<< Updated upstream
   'unifunc' => 'content_6271264e804797_38765234',
+=======
+  'unifunc' => 'content_62712b755d4045_47225908',
+>>>>>>> Stashed changes
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42de4c7ca57f7b5dcc2ca245126425ff32c311df' => 
     array (
       0 => 'C:\\xampp\\htdocs\\ProyectoOnline2\\templates\\Cuerpo\\Productos.tpl',
+<<<<<<< Updated upstream
       1 => 1651582540,
+=======
+      1 => 1650980427,
+>>>>>>> Stashed changes
       2 => 'file',
     ),
   ),
@@ -23,7 +35,11 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:templates/Cabeceras/Footer.tpl' => 1,
   ),
 ),false)) {
+<<<<<<< Updated upstream
 function content_6271264e804797_38765234 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_62712b755d4045_47225908 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> Stashed changes
 $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 

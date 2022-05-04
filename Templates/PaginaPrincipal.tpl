@@ -5,5 +5,5 @@
 
 
 
-{include file="templates/Cuerpo/Down.tpl"}
+{include file="templates/Cabeceras/Down.tpl"}
 {include file="templates/Cabeceras/Footer.tpl"}
