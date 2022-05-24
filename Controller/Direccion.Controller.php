@@ -26,7 +26,10 @@
         {
             $this->smarty->display('Cuerpo/Nosotros.tpl');
         }
-
+        public function Compra()
+        {
+            $this->smarty->display('Cuerpo/Compra.tpl');
+        }
 
     }
 ?>

@@ -1,8 +1,8 @@
-<footer class="page-footer card  red "><div class="card  red">
-    <div class="container  ">
+<footer class="page-footer amber lighten-3 "><div class="card amber accent-4">
+    <div class="container">
         <div class="row ">
         <div class="col l6 s12">
-        <h5 class="white-text  "></h5>
+        <h5 class="white-text"></h5>
         <p class="red text-lighten-4"></p>
         </div>
         <div class="col l4 offset-l2 s12">
