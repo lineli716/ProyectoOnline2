@@ -18,6 +18,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.40.00</a>
           </div>
         </div>
       </div>
@@ -32,6 +33,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.42.00</a>
           </div>
         </div>
       </div>
@@ -46,6 +48,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.38.00</a>
           </div>
         </div>
       </div>
@@ -65,6 +68,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.45.00</a>
           </div>
         </div>
       </div>
@@ -79,6 +83,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.56.00</a>
           </div>
         </div>
       </div>
@@ -93,6 +98,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.60.00</a>
           </div>
         </div>
       </div>
@@ -112,6 +118,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+          <a href="#">Q.48.00</a>
           </div>
         </div>
       </div>
@@ -126,6 +133,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.35.00</a>
           </div>
         </div>
       </div>
@@ -140,6 +148,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.40.00</a>
           </div>
         </div>
       </div>
@@ -159,6 +168,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.67.00</a>
           </div>
         </div>
       </div>
@@ -173,6 +183,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.50.00</a>
           </div>
         </div>
       </div>
@@ -187,6 +198,7 @@
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.45.00</a>
           </div>
         </div>
       </div>

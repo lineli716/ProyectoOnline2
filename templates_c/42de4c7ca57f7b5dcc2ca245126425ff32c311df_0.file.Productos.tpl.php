@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.0.4, created on 2022-05-24 08:31:33
+/* Smarty version 4.0.4, created on 2022-05-24 15:26:03
   from 'C:\xampp\htdocs\ProyectoOnline2\templates\Cuerpo\Productos.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.0.4',
-  'unifunc' => 'content_628c7bc5919dd5_38096596',
+  'unifunc' => 'content_628cdceb11ebe0_06126593',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42de4c7ca57f7b5dcc2ca245126425ff32c311df' => 
     array (
       0 => 'C:\\xampp\\htdocs\\ProyectoOnline2\\templates\\Cuerpo\\Productos.tpl',
-      1 => 1653373891,
+      1 => 1653398753,
       2 => 'file',
     ),
   ),
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:templates/Cabeceras/Footer.tpl' => 1,
   ),
 ),false)) {
-function content_628c7bc5919dd5_38096596 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628cdceb11ebe0_06126593 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
@@ -46,6 +46,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.40.00</a>
           </div>
         </div>
       </div>
@@ -60,6 +61,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.42.00</a>
           </div>
         </div>
       </div>
@@ -74,6 +76,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.38.00</a>
           </div>
         </div>
       </div>
@@ -93,6 +96,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.45.00</a>
           </div>
         </div>
       </div>
@@ -107,6 +111,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.56.00</a>
           </div>
         </div>
       </div>
@@ -121,6 +126,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.60.00</a>
           </div>
         </div>
       </div>
@@ -140,6 +146,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+          <a href="#">Q.48.00</a>
           </div>
         </div>
       </div>
@@ -154,6 +161,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.35.00</a>
           </div>
         </div>
       </div>
@@ -168,6 +176,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.40.00</a>
           </div>
         </div>
       </div>
@@ -187,6 +196,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.67.00</a>
           </div>
         </div>
       </div>
@@ -201,6 +211,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.50.00</a>
           </div>
         </div>
       </div>
@@ -215,6 +226,7 @@ $_smarty_tpl->_subTemplateRender("file:templates/Cabeceras/Cab.tpl", $_smarty_tp
           </div>
           <div class="card-action">
             <a href="#">Comprar</a>
+            <a href="#">Q.45.00</a>
           </div>
         </div>
       </div>
